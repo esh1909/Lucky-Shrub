@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-size: 3 rem;
+    color: teal;
+    text-align: center;
+}
+p {
+    font-size: 1 rem;
+    color:teal;
+}
+nav ul {
+    background-color: teal;
+    list-style: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+}
+footer > img {
+    display: block; 
+}
+.footer {
+text-align: right;
+}
+.main {
+    text-align: left;
+}
+.page {
+    display: inline;
+}
+a {
+color: black
+}
+a:hover {
+    color: white;
+}
+a:visited {
+    color: red;
+}
+div p {
+    display: block-inline;
+    text-align: right;
+}
